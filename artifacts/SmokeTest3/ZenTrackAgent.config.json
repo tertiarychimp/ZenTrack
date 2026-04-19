@@ -1,0 +1,9 @@
+{
+    "databasePath":  ".\\\\data\\\\smoketest3.db",
+    "pollIntervalSeconds":  5,
+    "processNames":  [
+                         "Zen",
+                         "ZenCore"
+                     ],
+    "logToConsole":  true
+}

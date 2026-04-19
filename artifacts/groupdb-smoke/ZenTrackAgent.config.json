@@ -1,0 +1,6 @@
+{
+  "databasePath": "D:\\ZenTrack\\artifacts\\groupdb-smoke\\zentrack-test.db",
+  "pollIntervalSeconds": 60,
+  "processNames": ["ZEN.exe"],
+  "logToConsole": true
+}

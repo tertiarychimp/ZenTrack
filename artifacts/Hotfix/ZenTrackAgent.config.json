@@ -1,0 +1,8 @@
+{
+  "databasePath": "%LOCALAPPDATA%\\ZenTrack\\data\\zentrack.db",
+  "pollIntervalSeconds": 60,
+  "processNames": [
+    "ZEN.exe"
+  ],
+  "logToConsole": true
+}
